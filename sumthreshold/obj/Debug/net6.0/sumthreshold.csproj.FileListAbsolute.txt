@@ -1,0 +1,15 @@
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\bin\Debug\net6.0\sumthreshold.exe
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\bin\Debug\net6.0\sumthreshold.deps.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\bin\Debug\net6.0\sumthreshold.runtimeconfig.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\bin\Debug\net6.0\sumthreshold.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\bin\Debug\net6.0\sumthreshold.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.csproj.AssemblyReference.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.AssemblyInfoInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.AssemblyInfo.cs
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.csproj.CoreCompileInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\refint\sumthreshold.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\sumthreshold.genruntimeconfig.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumthreshold\obj\Debug\net6.0\ref\sumthreshold.dll

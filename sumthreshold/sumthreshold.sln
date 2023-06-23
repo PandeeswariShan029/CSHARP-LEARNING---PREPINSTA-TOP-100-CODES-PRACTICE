@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumthreshold", "sumthreshold.csproj", "{22C8D72E-8E8E-4565-8217-AC4F99B7E459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C8D72E-8E8E-4565-8217-AC4F99B7E459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C8D72E-8E8E-4565-8217-AC4F99B7E459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C8D72E-8E8E-4565-8217-AC4F99B7E459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C8D72E-8E8E-4565-8217-AC4F99B7E459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44790CD-2B1F-4E68-9DBC-30B1F3DBD1A1}
+	EndGlobalSection
+EndGlobal
