@@ -1,0 +1,15 @@
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\bin\Debug\net6.0\largestnumberinarray.exe
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\bin\Debug\net6.0\largestnumberinarray.deps.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\bin\Debug\net6.0\largestnumberinarray.runtimeconfig.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\bin\Debug\net6.0\largestnumberinarray.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\bin\Debug\net6.0\largestnumberinarray.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.csproj.AssemblyReference.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.AssemblyInfoInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.AssemblyInfo.cs
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.csproj.CoreCompileInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\refint\largestnumberinarray.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\largestnumberinarray.genruntimeconfig.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestnumberinarray\obj\Debug\net6.0\ref\largestnumberinarray.dll
