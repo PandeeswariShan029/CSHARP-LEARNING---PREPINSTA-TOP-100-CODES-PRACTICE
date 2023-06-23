@@ -1,0 +1,15 @@
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.csproj.AssemblyReference.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.AssemblyInfoInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.AssemblyInfo.cs
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.csproj.CoreCompileInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\bin\Debug\net6.0\sumexnegative.exe
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\bin\Debug\net6.0\sumexnegative.deps.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\bin\Debug\net6.0\sumexnegative.runtimeconfig.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\bin\Debug\net6.0\sumexnegative.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\bin\Debug\net6.0\sumexnegative.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\refint\sumexnegative.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\sumexnegative.genruntimeconfig.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\sumexnegative\obj\Debug\net6.0\ref\sumexnegative.dll
