@@ -1,0 +1,30 @@
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\bin\Debug\net6.0\revarray.exe
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\bin\Debug\net6.0\revarray.deps.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\bin\Debug\net6.0\revarray.runtimeconfig.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\bin\Debug\net6.0\revarray.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\bin\Debug\net6.0\revarray.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.csproj.AssemblyReference.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.AssemblyInfoInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.AssemblyInfo.cs
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.csproj.CoreCompileInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\refint\revarray.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\revarray.genruntimeconfig.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\revarray\obj\Debug\net6.0\ref\revarray.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\bin\Debug\net6.0\revarray.exe
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\bin\Debug\net6.0\revarray.deps.json
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\bin\Debug\net6.0\revarray.runtimeconfig.json
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\bin\Debug\net6.0\revarray.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\bin\Debug\net6.0\revarray.pdb
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.csproj.AssemblyReference.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.AssemblyInfoInputs.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.AssemblyInfo.cs
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.csproj.CoreCompileInputs.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\refint\revarray.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.pdb
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\revarray.genruntimeconfig.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\revarray\obj\Debug\net6.0\ref\revarray.dll
