@@ -1,0 +1,15 @@
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\bin\Debug\net6.0\largestelement.exe
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\bin\Debug\net6.0\largestelement.deps.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\bin\Debug\net6.0\largestelement.runtimeconfig.json
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\bin\Debug\net6.0\largestelement.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\bin\Debug\net6.0\largestelement.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.csproj.AssemblyReference.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.AssemblyInfoInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.AssemblyInfo.cs
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.csproj.CoreCompileInputs.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\refint\largestelement.dll
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.pdb
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\largestelement.genruntimeconfig.cache
+C:\19IT1036\PREP INSTA CODES\ARRAY\largestelement\obj\Debug\net6.0\ref\largestelement.dll
