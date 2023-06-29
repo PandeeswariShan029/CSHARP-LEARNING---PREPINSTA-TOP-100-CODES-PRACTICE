@@ -1,0 +1,15 @@
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\bin\Debug\net6.0\longest plaindrome.exe
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\bin\Debug\net6.0\longest plaindrome.deps.json
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\bin\Debug\net6.0\longest plaindrome.runtimeconfig.json
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\bin\Debug\net6.0\longest plaindrome.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\bin\Debug\net6.0\longest plaindrome.pdb
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.csproj.AssemblyReference.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.AssemblyInfoInputs.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.AssemblyInfo.cs
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.csproj.CoreCompileInputs.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\refint\longest plaindrome.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.pdb
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\longest plaindrome.genruntimeconfig.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\longest plaindrome\obj\Debug\net6.0\ref\longest plaindrome.dll
