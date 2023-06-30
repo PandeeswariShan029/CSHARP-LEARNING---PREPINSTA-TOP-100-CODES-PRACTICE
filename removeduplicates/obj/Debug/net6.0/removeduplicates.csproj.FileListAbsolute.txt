@@ -1,0 +1,15 @@
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\bin\Debug\net6.0\removeduplicates.exe
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\bin\Debug\net6.0\removeduplicates.deps.json
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\bin\Debug\net6.0\removeduplicates.runtimeconfig.json
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\bin\Debug\net6.0\removeduplicates.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\bin\Debug\net6.0\removeduplicates.pdb
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.csproj.AssemblyReference.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.AssemblyInfoInputs.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.AssemblyInfo.cs
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.csproj.CoreCompileInputs.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\refint\removeduplicates.dll
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.pdb
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\removeduplicates.genruntimeconfig.cache
+C:\19IT1036\C# LEARNING\Prepinsta 100 codes practice\ARRAY\removeduplicates\obj\Debug\net6.0\ref\removeduplicates.dll
